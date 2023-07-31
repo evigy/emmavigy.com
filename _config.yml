@@ -22,8 +22,9 @@ title: Emma Vigy
 email: emmavigy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The content on this site is strictly my opinion and not that of any organization I am affiliated with.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Somehow this fixed the reason why my css was not rendering in deployed mode (production)
+baseurl: /
+url: https://evigy.github.io
 linkedin_username: emmavigy
 github_username:  evigy
 

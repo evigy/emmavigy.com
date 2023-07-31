@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div style="float:left; margin-right:1.5em; margin-bottom:1.5em;" >
+    <img src="assets/profile_picture.PNG" />
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# <u>Bio</u>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Emma Vigy and I am a software engineer that graduated from the University of Wisconsin-Madison with a degree in computer science. Originally, I emigrated from France, and in my time in university I solidifed my passion for programming. When I am not working or hacking together personal projects, I enjoy spending time with family, reading, running, skiing, and lifting weights. I one day aspire to be a [six star finisher](https://www.worldmarathonmajors.com/six-star).
