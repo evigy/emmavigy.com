@@ -5,9 +5,9 @@ date:   2023-07-31 12:34:35 -0500
 categories: jekyll update
 ---
 
-**Learning and Using FastAPI: A Comprehensive Guide**
-
 FastAPI is a modern, high-performance web framework for building APIs with Python. It combines the simplicity of writing code in Python with the speed and efficiency of asynchronous programming. Here's a step-by-step guide on how to learn and use FastAPI effectively:
+
+**Learning and Using FastAPI: A Comprehensive Guide**
 
 1. **Installation:**
 Start by installing FastAPI and its dependency, Uvicorn (ASGI server), using pip:
